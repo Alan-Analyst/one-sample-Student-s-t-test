@@ -20,7 +20,7 @@ To run the code in this repository, you will need the following software and lib
 - Matplotlib (for data visualization)
 
 
-##Results
+## Results
 The analysis results are presented in the Jupyter Notebook and include the following:
 
 Data exploration and visualization.
