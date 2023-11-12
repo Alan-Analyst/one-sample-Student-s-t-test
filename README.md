@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
 - [Results](#results)
 
 ## Introduction
