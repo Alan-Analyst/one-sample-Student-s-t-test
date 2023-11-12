@@ -1,10 +1,5 @@
 # Microchip Temperature Test Analysis
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Results](#results)
-
 ## Introduction
 
 This repository contains the code and data used to perform a one-sample Student's T test to compare the mean temperature of a small sample of microchips against the population temperature. The goal of this analysis is to determine whether the temperature of the microchips significantly differs from the population mean.
