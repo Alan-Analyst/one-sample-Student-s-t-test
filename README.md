@@ -23,8 +23,8 @@ To run the code in this repository, you will need the following software and lib
 ## Results
 The analysis results are presented in the Jupyter Notebook and include the following:
 
-Data exploration and visualization.
-Hypothesis testing using a one-sample T test.
-Constructing the sampling distribution of the sample mean.
-Calculation of the test statistic, p-value, and confidence interval.
-Conclusion about whether the microchip temperature differs significantly from the population mean.
+- Data exploration and visualization.
+- Hypothesis testing using a one-sample T test.
+- Constructing the sampling distribution of the sample mean.
+- Calculation of the test statistic, p-value, and confidence interval.
+- Conclusion about whether the microchip temperature differs significantly from the population mean.
